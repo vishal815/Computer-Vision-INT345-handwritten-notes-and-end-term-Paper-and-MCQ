@@ -1,16 +1,6 @@
 
-
-## Computer-Vision-INT345-handwritten-notes-and-end-term-Paper-and-MCQ
 ![images](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/assets/83393190/1a17f337-57dd-467d-8165-51fa9baa4df8)
-
-![photo1712688409](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/assets/83393190/93eb3de9-6c41-4219-809a-7c540d92693c)
-
-
-## End Term Paper
-![photo1712688409 (2)](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/assets/83393190/5c865daf-cfdf-4dd1-a3a5-3e2f61d2e5d0)
-![photo1712688409 (1)](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/assets/83393190/20b717b0-29dc-46b6-90a2-b3719f778d87)
-![photo1712688409](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/assets/83393190/c8c9de4f-6e64-4523-adc2-b366ba5e5e98)
-
+## Computer-Vision-INT345-handwritten-notes-and-end-term-Paper-and-MCQ
 ## Multiple-Choice Questions (MCQ)
  [Computer Vision MCQ Google Form](https://docs.google.com/forms/d/e/1FAIpQLScoUi6zIqztESTmeKwyE_GYHJ0-Y3aJQgFtUzUTmdcCqLr8Xg/viewform)
 
@@ -18,10 +8,15 @@
 [Short notes for CV .pdf](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/files/14923273/Short.notes.for.CV.pdf)
 [UNIT 5  CV Notes.pdf](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/files/14923277/UNIT.5.CV.Notes.pdf)
 
-
-
 ## Class ppts
-You can access the class ppts [here](https://classroom.google.com/c/NjE2OTQ2NjUxMDAz). Please note that you will need to sign in to your Google Classroom account to view and download the presentations.
+You can access the class ppts [here👉](https://classroom.google.com/c/NjE2OTQ2NjUxMDAz)
+
+
+## End Term Paper
+![photo1712688409 (2)](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/assets/83393190/5c865daf-cfdf-4dd1-a3a5-3e2f61d2e5d0)
+![photo1712688409 (1)](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/assets/83393190/20b717b0-29dc-46b6-90a2-b3719f778d87)
+![photo1712688409](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/assets/83393190/c8c9de4f-6e64-4523-adc2-b366ba5e5e98)
+
 
 
 
