@@ -5,8 +5,9 @@
  [Computer Vision MCQ Google Form](https://docs.google.com/forms/d/e/1FAIpQLScoUi6zIqztESTmeKwyE_GYHJ0-Y3aJQgFtUzUTmdcCqLr8Xg/viewform)
 
 ## Quick notes for revision
-[Short notes for CV .pdf](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/files/14923273/Short.notes.for.CV.pdf)
-[UNIT 5  CV Notes.pdf](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/files/14923277/UNIT.5.CV.Notes.pdf)
+- [Short notes for CV .pdf](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/files/14923273/Short.notes.for.CV.pdf)
+
+- [UNIT 5  CV Notes.pdf](https://github.com/vishal815/Computer-Vision-INT345-handwritten-notes-end-term-Paper-and-MCQ/files/14923277/UNIT.5.CV.Notes.pdf)
 
 ## Class ppts
 You can access the class ppts [here👉](https://classroom.google.com/c/NjE2OTQ2NjUxMDAz)
